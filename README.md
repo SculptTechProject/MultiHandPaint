@@ -1,6 +1,6 @@
 # 🎨 MultiHandPaint – Draw in the Air with Hand Gestures & Face Detection
 
-**AirPaint** is a fun and interactive Python application that lets you draw in the air using hand gestures detected by [MediaPipe](https://google.github.io/mediapipe/). You can switch between brush, eraser, and color modes using your **left hand**, draw with your **right hand**, and even **clear the canvas by opening your mouth** 👄.
+**AirPaint** is a fun and interactive Python application that lets you draw in the air using hand gestures detected by [MediaPipe](https://google.github.io/mediapipe/). You can switch between brush, eraser, and color modes using your **left hand**, draw with your **right hand**, and even **clear the canvas by opening your mouth** 👄!
 
 ---
 
